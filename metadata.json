@@ -1,0 +1,7 @@
+{
+  "name": "Mầm Nhỏ",
+  "description": "Ứng dụng hình thành thói quen tốt mỗi ngày cùng nhân vật mầm cây nhỏ dễ thương, khu vườn tương tác và thử thách.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
